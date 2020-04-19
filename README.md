@@ -1,4 +1,4 @@
-Please open http://localhost:5000/ after opening the test.exe or openining it/ dragging it to the cmd.
+Please open http://localhost:5000/ after opening the test.exe.
 
-Please press ctrl+C to close it if you use CMD to open it, OR
-Please shutdown test.exe in Task Manager to close it if you open it directly
+Please close the cmd directly to shutdown test.exe, Or
+shut down test.exe in Task Manager to close it if you open it directly if you can not see the cmd window
