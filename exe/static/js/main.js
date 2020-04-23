@@ -207,7 +207,7 @@ $(function(){
 								$("#word-list-"+i).append("<div id='panel-"+i+"' class='panel-collapse accordion-body collapse'><div class='py-2'><q data-toggle='tooltip' data-placement='top' title='"+wordDetail[i].source[j]+"'>"+wordDetail[i].sid[j][k]+"</q></div></div>");
 							});
 						});
-						$("#word-list-0").highlight(wordDetail[i].concrete);
+						$("#word-list-"+i).highlight(wordDetail[i].concrete);
 					});
 
 				});
